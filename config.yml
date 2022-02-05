@@ -1,4 +1,5 @@
 baseURL: "https://myprogrammerpersonality.github.io/"
+relativeURLs: "True"
 languageCode: en-us
 Title: "Ali's Blog"
 Description: "Bio & Info"
