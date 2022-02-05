@@ -1,14 +1,10 @@
-baseURL: "http://myprogrammerpersonality.github.io/"
+baseURL: "https://myprogrammerpersonality.github.io/"
 languageCode: en-us
 Title: "Ali's Blog"
 Description: "Bio & Info"
 paginate: 5
 theme: PaperMod
 disqusShortname: Ali
-
-minify:
-  disableXML: true
-  minifyOutput: false
 
 params:
   env: production
