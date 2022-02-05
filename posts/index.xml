@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Posts on Ali&#39;s Blog</title>
-    <link>http://myprogrammerpersonality.github.io/posts/</link>
-    <description>Recent content in Posts on Ali&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 05 Feb 2022 20:36:11 +0330</lastBuildDate><atom:link href="http://myprogrammerpersonality.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ali</title>
-      <link>http://myprogrammerpersonality.github.io/2022/02/ali/</link>
-      <pubDate>Sat, 05 Feb 2022 20:36:11 +0330</pubDate>
-      
-      <guid>http://myprogrammerpersonality.github.io/2022/02/ali/</guid>
-      <description>Ali has a blog :)
-print(&amp;#34;Hello world&amp;#34;) </description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Ali's Blog</title><link>https://myprogrammerpersonality.github.io/posts/</link><description>Recent content in Posts on Ali's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 05 Feb 2022 20:36:11 +0330</lastBuildDate><atom:link href="https://myprogrammerpersonality.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Ali</title><link>https://myprogrammerpersonality.github.io/2022/02/ali/</link><pubDate>Sat, 05 Feb 2022 20:36:11 +0330</pubDate><guid>https://myprogrammerpersonality.github.io/2022/02/ali/</guid><description>Ali has a blog :)
+print(&amp;#34;Hello world&amp;#34;)</description></item></channel></rss>
