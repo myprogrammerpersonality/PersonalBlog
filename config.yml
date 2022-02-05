@@ -1,11 +1,10 @@
-baseURL: "https://glyphack.com"
+baseURL: "http://myprogrammerpersonality.github.io/"
 languageCode: en-us
-Title: "Glyphack's Blog"
-Description: "Software and People"
+Title: "Ali's Blog"
+Description: "Bio & Info"
 paginate: 5
 theme: PaperMod
-disqusShortname: glyphack
-googleAnalytics: G-8LYVTHE5XD
+disqusShortname: Ali
 
 minify:
   disableXML: true
@@ -13,10 +12,10 @@ minify:
 
 params:
   env: production
-  title: Glyphack
-  description: "Software and People"
-  keywords: [Blog, SoftwareEngineering, Programming, Shayegan, Hooshyari]
-  author: Shayegan Hooshyari
+  title: Ali Yazdizadeh
+  description: "Bio & Info"
+  keywords: [Blog, Biology, Programming, Bioinformatics, Bioinformatic, Yazdizadeh]
+  author: Ali Yazdizadeh
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -29,17 +28,17 @@ params:
 
   # introduction
   homeInfoParams:
-    Title: ""
-    Content: "I write about people and software"
+    Title: "Ali Yazdizadeh"
+    Content: "It supposed to be my personal blog!"
 
   # social-buttons
   socialIcons:
     - name: linkedin
-      url: "https://www.linkedin.com/in/shayegan-hooshyari"
+      url: "https://www.linkedin.com/in/ali-yazdizadeh/"
     - name: github
-      url: "https://github.com/Glyphack"
+      url: "https://github.com/myprogrammerpersonality"
     - name: email
-      url: "mailto:sh.hooshyari@gmail.com"
+      url: "mailto:aliyzd1379@gmail.com"
 
 permalinks:
   posts: /:year/:month/:title/
